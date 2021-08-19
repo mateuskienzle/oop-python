@@ -1,4 +1,4 @@
-# Basic aplication in Python with OOP💻
+# Basic application in Python with OOP💻
 
 It's a project that i did using OOP in Python.
 
