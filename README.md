@@ -1,9 +1,8 @@
-# Basic application in Python with OOP💻
+# Dealership developed in Python using the Object-Oriented Programming💻
 
-It's a project that i did using OOP in Python.
+It's an dealership application that allows the user buy or rent a car
 
 ## Objectives 🎯
 
-- Develop some console aplication starting from zero usign OOP in Python
-- Practice OOP in Python 
-- Get myself closer of a real case
+- Develop a console aplication starting from zero usign OOP in Python
+- Simulate a real dealership
