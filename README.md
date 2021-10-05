@@ -1,4 +1,4 @@
-# Dealership developed in Python using the Object-Oriented Programming💻
+# Dealership using the Object-Oriented Programming 🚕
 
 It's an dealership application that allows the user buy or rent a car
 
